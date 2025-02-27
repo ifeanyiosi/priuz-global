@@ -21,7 +21,7 @@ const Navbar = () => {
                 {/* Replace with your actual logo */}
                 <img className="w-8 h-8 object-cover" src="/logo.png" alt="" />
                 <span className="text-xl font-bold text-blue-900">
-                  Pruiz Global
+                  Pruiz CA Global
                 </span>
               </span>
             </Link>

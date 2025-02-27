@@ -417,10 +417,7 @@ const ServicesPage: React.FC = () => {
                 tracking system gives us peace of mind.&lsquo;
               </p>
               <div>
-                <p className="font-semibold text-gray-900">James Wilson</p>
-                <p className="text-gray-500 text-sm">
-                  Regional Manager, PetroChem Industries
-                </p>
+                <p className="text-gray-500 text-sm">Izumba gas Ltd</p>
               </div>
             </div>
 
@@ -440,9 +437,8 @@ const ServicesPage: React.FC = () => {
                 is professional and responsive.&quot;
               </p>
               <div>
-                <p className="font-semibold text-gray-900">Sarah Johnson</p>
                 <p className="text-gray-500 text-sm">
-                  Operations Director, NexFuel Stations
+                  J. H. Udeagbala Holdings Ltd
                 </p>
               </div>
             </div>
@@ -463,10 +459,7 @@ const ServicesPage: React.FC = () => {
                 arrive on time and in perfect condition.&quot;
               </p>
               <div>
-                <p className="font-semibold text-gray-900">Michael Thomas</p>
-                <p className="text-gray-500 text-sm">
-                  Logistics Manager, EnergyPlus
-                </p>
+                <p className="text-gray-500 text-sm">Rackon gas Ltd</p>
               </div>
             </div>
           </div>

@@ -12,7 +12,7 @@ export const AboutCta = () => {
                 Ready to work with us?
               </h2>
               <p className="text-xl text-gray-600 mb-6">
-                Experience the PetroHaul difference with our commitment to
+                Experience the Priuz CA Global difference with our commitment to
                 safety, reliability, and customer satisfaction. Contact us today
                 for your petroleum haulage needs.
               </p>

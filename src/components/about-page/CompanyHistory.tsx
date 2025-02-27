@@ -10,24 +10,24 @@ export const CompanyHistory = () => {
               Our History
             </h2>
             <p className="text-lg text-gray-600 mb-6">
-              Founded in 2005, PetroHaul began with just three tankers and a
-              vision to transform the petroleum transportation industry in
-              Nigeria. Our founder, Mr. Adebayo Johnson, identified a critical
-              gap in the market: the need for reliable, safe, and efficient
-              petroleum haulage services.
+              Founded in 2020, Priuz CA Global began with just three tankers and
+              a vision to transform the petroleum transportation industry in
+              Nigeria. Our founder, Mr. Princewill Uzoma Okereke, identified a
+              critical gap in the market: the need for reliable, safe, and
+              efficient petroleum haulage services.
             </p>
             <p className="text-lg text-gray-600 mb-6">
-              Starting with local deliveries in Lagos State, we quickly expanded
-              our operations to cover the entire Southwest region within the
-              first three years. By 2010, we had established a presence in all
-              six geopolitical zones of Nigeria.
+              Starting with local deliveries in Rivers State, we quickly
+              expanded our operations to cover the entire South region within
+              the first three years. By 2022, we had established a presence in
+              all six geopolitical zones of Nigeria.
             </p>
             <p className="text-lg text-gray-600">
-              Today, PetroHaul operates a modern fleet of over 50 tankers and
-              employs more than 200 staff across the country. We have grown to
-              become one of the most trusted names in petroleum transportation,
-              working with major oil companies, independent marketers, and
-              industrial clients nationwide.
+              Today, Priuz CA Global operates a modern fleet of over 50 tankers
+              and employs more than 200 staff across the country. We have grown
+              to become one of the most trusted names in petroleum
+              transportation, working with major oil companies, independent
+              marketers, and industrial clients nationwide.
             </p>
           </div>
           <div className="mt-10 lg:mt-0">

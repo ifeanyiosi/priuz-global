@@ -4,19 +4,19 @@ export const TestimonialsSection = () => {
       quote:
         "Their timely deliveries and professional handling of our petroleum products have made them our go-to transportation partner.",
       name: "John Smith",
-      company: "EnergyPlus Inc.",
+      company: "Hydropet oil and gas services Ltd ",
     },
     {
       quote:
         "We've been working with them for over 5 years. Their safety standards and reliability are exceptional in the industry.",
       name: "Sarah Johnson",
-      company: "PetroSupply Co.",
+      company: "Stockgap fuels Ltd",
     },
     {
       quote:
         "From small deliveries to major haulage operations, they've consistently provided excellent service across all our locations.",
       name: "Michael Davis",
-      company: "National Fuels Ltd.",
+      company: "Zehus Energy Ltd",
     },
   ];
 
@@ -31,7 +31,6 @@ export const TestimonialsSection = () => {
             <div key={index} className="bg-blue-800 p-6 rounded-lg">
               <p className="italic mb-4">&quot;{testimonial.quote}&quot;</p>
               <div>
-                <p className="font-semibold">{testimonial.name}</p>
                 <p className="text-blue-300">{testimonial.company}</p>
               </div>
             </div>
