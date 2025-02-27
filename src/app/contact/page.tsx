@@ -1,6 +1,7 @@
 "use client";
 import React, { useState } from "react";
 import { ArrowRight, MapPin, Phone, Mail, Clock } from "lucide-react";
+import Link from "next/link";
 
 const Contact = () => {
   const [formData, setFormData] = useState({
@@ -241,13 +242,13 @@ const Contact = () => {
             Our fleet of modern tankers ensures safe and timely delivery of
             petroleum products across the country.
           </p>
-          <a
+          <Link
             href="tel:+2348030590599"
             className="inline-flex items-center gap-2 px-6 py-3 bg-white text-blue-900 rounded-md font-medium hover:bg-gray-100 transition"
           >
             <Phone size={16} />
             Call Us Now
-          </a>
+          </Link>
         </div>
       </div>
     </div>

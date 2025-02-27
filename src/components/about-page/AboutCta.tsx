@@ -25,7 +25,7 @@ export const AboutCta = () => {
                 </Link>
                 <Link
                   className="bg-white hover:bg-gray-100 text-blue-600 border border-blue-600 font-bold py-3 px-8 rounded-lg transition duration-300"
-                  href="/quote"
+                  href="/contact"
                 >
                   Request a Quote
                 </Link>
